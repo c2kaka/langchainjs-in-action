@@ -2,3 +2,5 @@
 ```shell
 jupyter notebook
 ```
+
+<!-- start ollama -->

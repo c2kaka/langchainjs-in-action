@@ -1,6 +1,7 @@
 {
   "imports": {
-    "lodash": "npm:/lodash@4.17.21"
+    "lodash": "npm:/lodash@4.17.21",
+    "@langchain/community/": "npm:/@langchain/community/"
   },
   "deno.enable": true
 }
